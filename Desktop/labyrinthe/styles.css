@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial,Helvetica;
+}
+
+#conteneur {
+/* 	margin-left: 10%; */
+	width: 920px;
+	margin:0 auto;
+	background: url(img/indi.jpg) right bottom no-repeat;
+	height: 520px;
+
+}
+
+#middle {
+	width: 920px;
+	height: 530px;
+	margin-top: 20px;
+}
+
+#explications p {
+	width: 680px;
+}
+
+.controls {
+width: 120px;
+position: relative;
+top:20px;
+
+
+}
+
+#menu img{
+	margin-right: 40px;
+}
+#menu span, #menu a:link, #menu a:visited{
+	background-color: #d8aa41;
+	color: #000;
+	padding: 3px;
+	border: 1px solid black;
+	margin-left: 15px;
+	font-size: 0.9em;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+
+.imgDroite {
+	margin-bottom: 25px;
+}
+
+td {
+	width: 25px;
+	height: 25px;
+	margin: 0;
+	text-align: center;
+	background-color: green;
+}
+
+table {
+	margin-top: 19px;
+	border-collapse: collapse;
+	border: 2px solid black	;
+	margin-bottom: 10px;
+}
+
+.indi {
+	width: 21px;
+	height: 19px;
+}
+.graal {
+	width: 18px;
+	height: 20px;
+}
+
+#explications{
+	background:url(img/footer.jpg) repeat-x;
+	height: 104px;
+	padding: 5px;
+}
+#explications p{
+	margin-left: 10px;
+	float: left;
+}
+#explications h1 {
+	margin-left:190px;
+	width: 400px;
+}
+
+#explications span {
+	width: 200px;
+	float: right;
+	text-align: center;
+	margin-top: 10px;
+}
