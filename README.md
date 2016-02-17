@@ -1,2 +1,0 @@
-# Maze
-Labyrinthe de Kim
